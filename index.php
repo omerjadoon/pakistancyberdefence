@@ -61,6 +61,9 @@
       </div>
     </div>
 
+<footer>
+    <h6 style="color:#fff; text-align: center;">Developed by Jadoon Technologies</h6>
+</footer>
 <script type="text/javascript" src="javascripts/jquery.min.js"></script> <!--jQuery is not required by the library. We use it in DEMO page-->
 <!-- CryptoStego JS files.-->
 <script type="text/javascript" src="src/sha512.js"></script>
@@ -116,6 +119,8 @@ function readIMG(){
     loadIMGtoCanvas('file','canvas',readfunc);
 }
 </script>
+
+
 
   </body>
 </html>
