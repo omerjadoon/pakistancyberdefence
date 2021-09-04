@@ -62,7 +62,7 @@
     </div>
 
 <footer>
-    <h6 style="color:#fff; text-align: center;">Developed by Jadoon Technologies</h6>
+    <h6 style="color:#fff; text-align: center;padding: 18px; background: rgba(0,255,0,0.3); margin-top: 80px">Developed by Jadoon Technologies</h6>
 </footer>
 <script type="text/javascript" src="javascripts/jquery.min.js"></script> <!--jQuery is not required by the library. We use it in DEMO page-->
 <!-- CryptoStego JS files.-->
